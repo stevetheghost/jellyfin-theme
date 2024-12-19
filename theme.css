@@ -2,4 +2,14 @@
     background: #5dd000;
   }
   
+  .backdropImage {
+    display: none;
+  }
+  
+  .backgroundContainer {
+    background-color: #5dd000;
+    filter: blur(10px);
+    background-size: cover;
+  }
+  
   
